@@ -57,9 +57,9 @@ ui <- fluidPage(
                 h4('Output:'),
                 p('An iPASS score of ≥ 1 should indicate above average relative ncAA incorporation efficiency. A minimal iPASS score difference of ca. 2.5 after amber stop codon context optimization usually improves ncAA incorporation efficiency. Please note that the iPASS tool has been developed to predict and optimize the suppression of amber stop codons in mammalian cells using the orthogonal',i('Methanosarcina mazei'), 'pyrrolysyl-tRNA synthetase/tRNA',sup('Pyl'),sub('CUA'),'pair. Hence, iPASS might not reliably predict ncAA incorporation efficiencies for other genetic code expansion strategies (e.g. tyrosyl amber suppressor tRNAs) or eukaryotic organisms (e.g. yeast).'),
                 h4('Error report and feedback:'),
-                p('Please report errors and bugs to bultmann(at)bio.lmu.de. We would also appreciate to receive feedback on how well the tool predicts relative ncAA incorporation efficiencies in your applications and cell lines.'),
+                p('Please report errors and bugs to s.bultmann(at)posteo.de. We would also appreciate to receive feedback on how well the tool predicts relative ncAA incorporation efficiencies in your applications and cell lines.'),
                 h4("How to cite:"),
-                p('The iPASS tool was developed by your colleagues. Please cite the publication in which iPASS has been described in your Material and Methods section: Bartoschek MD, Ugur E, Nguyen TA, Rodschinka G, Wierer M, Lang K, Bultmann S. Identification of permissive amber suppression sites for efficient non-canonical amino acid incorporation in mammalian cells (2021).')
+                p('The iPASS tool was developed by your colleagues. Please cite the publication in which iPASS has been described in your Material and Methods section: Bartoschek MD, Ugur E, Nguyen TA, Rodschinka G, Wierer M, Lang K, Bultmann S. Identification of permissive amber suppression sites for efficient non-canonical amino acid incorporation in mammalian cells. Nucleic Acids Res. 2021 Jun 21;49(11):e62. doi: 10.1093/nar/gkab132. PMID: 33684219; PMCID: PMC8216290.')
                 
            )
          })
