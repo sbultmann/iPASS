@@ -1,0 +1,10 @@
+name: ipassv2
+title:
+username: bultmann
+account: bultmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14028251
+bundleId: 9817655
+url: https://bultmann.shinyapps.io/ipassv2/
+version: 1
