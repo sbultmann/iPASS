@@ -25,7 +25,7 @@ iPASS is a Shiny web application designed to analyze and optimize sequences for 
 1. Clone this repository.
 2. Ensure all the necessary R packages are installed.
 3. Open the project in RStudio.
-4. Run the `app.R` file.
+4. Run the `app.R` file using `runApp()`.
 
 ## Usage
 
@@ -46,8 +46,7 @@ iPASS is a Shiny web application designed to analyze and optimize sequences for 
 ## Citation
 
 Please cite the iPASS tool as described in the publication: 
-Bartoschek MD, Ugur E, Nguyen TA, Rodschinka G, Wierer M, Lang K, Bultmann S. (2021). Identification of permissive amber suppression sites for efficient ncAA incorporation in mammalian cells.
-
+Bartoschek MD, Ugur E, Nguyen TA, Rodschinka G, Wierer M, Lang K, Bultmann S. Identification of permissive amber suppression sites for efficient non-canonical amino acid incorporation in mammalian cells. Nucleic Acids Res. 2021 Jun 21;49(11):e62. doi: 10.1093/nar/gkab132. PMID: 33684219; PMCID: PMC8216290.
 ## Feedback
 
 For bug reports or feedback, email s.bultmann(at)posteo.de. Your insights are valuable to improving iPASS.
